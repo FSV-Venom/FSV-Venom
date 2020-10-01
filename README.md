@@ -8,4 +8,4 @@
 
 <br />
 
-![GitHub followers](https://img.shields.io/github/followers/FSV-Venom?label=Followers&logo=GitHub&style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/FSV-Venom?label=Follow Me!&logo=GitHub&style=plastic)
