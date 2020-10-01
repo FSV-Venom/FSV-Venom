@@ -4,4 +4,4 @@
 
 ### Spotify: Now Playing 🎧
 
-[<img src="https://https://novatorem-iota-lime.vercel.app//api/spotify" alt="FSV_Venom Spotify Playing" width="350" />](https://open.spotify.com/user/hnw8p74a5b70em36uandbmvvk)
+[<img src="https://novatorem.fsv-venom.vercel.app/api/spotify" alt="FSV_Venom Spotify Playing" width="350" />](https://open.spotify.com/user/hnw8p74a5b70em36uandbmvvk)
